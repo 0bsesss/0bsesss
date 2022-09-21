@@ -8,9 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Here some review from my Malware Payloads
-![alt text]([http://url/to/img.png](https://media.discordapp.net/attachments/1006451726280298498/1021169655714418728/unknown.png))
-![alt text]([http://url/to/img.png]([https://media.discordapp.net/attachments/1006451726280298498/1021169655714418728/unknown.png))
+
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=0bsesss&show_icons=true&theme=gradient) 
