@@ -14,13 +14,8 @@ My Personal Accounts:
 
 Languages I Know:
 
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67"><img height="20" src="https://camo.githubusercontent.com/d11bc5fc022603363226da69441297bc1f6dda6cd6253d80f5ed010125810aad/68747470733a2f2f692e696d6775722e636f6d2f534931445a66332e706e67" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></code>
-<br></p>
+<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APowerShell_5.0_icon.png&psig=AOvVaw3qeKBoeTQCqUE5z_fimYpX&ust=1663842869638000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODA_erXpfoCFQAAAAAdAAAAABAE"><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APowerShell_5.0_icon.png&psig=AOvVaw3qeKBoeTQCqUE5z_fimYpX&ust=1663842869638000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODA_erXpfoCFQAAAAAdAAAAABAE" style="max-width: 100%;"></a></code>
+
 
 <!---
 0bsesss/0bsesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
