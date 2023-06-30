@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emre aka emrose
+- 👋 Hi, I’m Emre aka 0bsess
 - 👀 I’m interested in PowerShell,C#,C++,Python
 - 🌱 I’m currently learning Android Security System
 
