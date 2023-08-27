@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emre aka 0bsess
-- 👀 I’m interested in PowerShell,C#,C++,Python
-- 🌱 I’m currently learning Android Security System
+- 👀 I’m interested in PowerShell,C#,C++,Python,Java/Android Sec System.
+- 🌱 I’m currently learning LUA Scripting
 
 
 My Personal Accounts:
